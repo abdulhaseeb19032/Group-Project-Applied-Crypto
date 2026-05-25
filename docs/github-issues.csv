@@ -1,0 +1,16 @@
+Title,Assignee,Status
+Create GitHub folder structure,All,Planned
+Build CSV client encrypt command,Abdul Haseeb,Planned
+Build CSV client decrypt command,Abdul Haseeb,Planned
+Build CSV client upload command,Abdul Haseeb,Planned
+Build CSV server receive function,Md Monirul Haque Arnob,Planned
+Build CSV server report function,Md Monirul Haque Arnob,Planned
+Implement Diffie-Hellman key exchange,Md Monirul Haque Arnob,Planned
+Configure Apache secure HTTPS,Azwad Abir,Planned
+Configure Apache insecure HTTPS,Azwad Abir,Planned
+Capture CSV traffic,Thevindu,Planned
+Capture secure HTTPS traffic,Thevindu,Planned
+Capture insecure HTTPS traffic,Thevindu,Planned
+Write protocol analysis,All,Planned
+Write security flaw analysis,All,Planned
+Prepare final demo,All,Planned
